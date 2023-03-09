@@ -6,9 +6,9 @@ encoding utf-8
 Sheet 1 1
 Title ""
 Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Rev "A"
+Comp "Matthew Millman"
+Comment1 "OCuLink to PCIe x4 (x8 Physical) Adapter"
 Comment2 ""
 Comment3 ""
 Comment4 ""
