@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name G14A421211112HR)(type KiCad)(uri ${KIPRJMOD}/../G14A421211112HR.pretty)(options "")(descr ""))
+  (lib (name QFN-24-2EP_4x4mm_P0.5mm_EP2.6x2.6mm)(type KiCad)(uri ${KIPRJMOD}/../QFN-24-2EP_4x4mm_P0.5mm_EP2.6x2.6mm.pretty)(options "")(descr ""))
+  (lib (name MDT420M03001)(type KiCad)(uri ${KIPRJMOD}/../MDT420M03001.pretty)(options "")(descr ""))
+)

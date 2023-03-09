@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name G14A421211112HR)(type KiCad)(uri ${KIPRJMOD}/G14A421211112HR.pretty)(options "")(descr ""))
+  (lib (name PCIE-098-02-F-D-TH)(type KiCad)(uri ${KIPRJMOD}/PCIE-098-02-F-D-TH.pretty)(options "")(descr ""))
+  (lib (name MINI_FIT_JR_1X2_RA)(type KiCad)(uri ${KIPRJMOD}/MINI_FIT_JR_1X2_RA.pretty)(options "")(descr ""))
+  (lib (name QFN-24-2EP_4x4mm_P0.5mm_EP2.6x2.6mm)(type KiCad)(uri ${KIPRJMOD}/QFN-24-2EP_4x4mm_P0.5mm_EP2.6x2.6mm.pretty)(options "")(descr ""))
+  (lib (name SCREWHOLE)(type KiCad)(uri ${KIPRJMOD}/SCREWHOLE.pretty)(options "")(descr ""))
+)

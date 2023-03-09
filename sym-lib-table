@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name OCUx4EP)(type Legacy)(uri ${KIPRJMOD}/OCUx4EP.lib)(options "")(descr ""))
+  (lib (name PCIeX8)(type Legacy)(uri ${KIPRJMOD}/PCIeX8.lib)(options "")(descr ""))
+  (lib (name LT3976)(type Legacy)(uri ${KIPRJMOD}/LT3976.lib)(options "")(descr ""))
+  (lib (name ADP2387)(type Legacy)(uri ${KIPRJMOD}/ADP2387.lib)(options "")(descr ""))
+)
